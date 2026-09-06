@@ -1,0 +1,6 @@
+{
+  "name": "MaintAI – Autonomous Maintenance Diagnosis Agent",
+  "description": "Autonomous AI maintenance diagnosis agent for industrial equipment incident investigation, evidence evaluation, root cause analysis, and resolution verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
